@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @byeo089
-- 👀 I’m interested in ... full stack development
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning HTML, CSS, JS, Python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
