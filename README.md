@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byeo089
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning HTML, CSS, JS, Python
+- 👀 I’m interested in full stack software developmment
+- 🌱 I’m currently learning HTML, CSS, JS, React.js, .NET Core, SQL
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
