@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @byeo089
 - 👀 I’m interested in full stack software developmment
-- 🌱 I’m currently learning HTML, CSS, JS, React.js, .NET Core, SQL
+- 🌱 I use HTML, CSS, JS, React.js, .NET Core/C#, SQL as my primary technology stack
 - 💞️ I’m looking to collaborate on. Lets talk
 - 📫 How to reach me | [Linkedin](http://linkedin.com/in/brian-yeo089)
 
